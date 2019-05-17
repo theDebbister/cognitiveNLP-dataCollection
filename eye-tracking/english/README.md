@@ -10,8 +10,8 @@ Reference:
 ## ZuCo
 
 Simultaneous eye tracking and EEG recordings.
-Provided features: 
-Data: https://osf.io/q3zws/
+Provided features:  
+Data: https://osf.io/q3zws/  
 Reference: [Hollenstein et al. (2018)](https://www.nature.com/articles/sdata2018291)
 
 ## GECO
@@ -24,8 +24,8 @@ Reference:
 
 ## Provo
 
-Provided features:
-Data: https://osf.io/sjefs/
+Provided features:  
+Data: https://osf.io/sjefs/  
 Reference
 
 ## CFILT Datasets
