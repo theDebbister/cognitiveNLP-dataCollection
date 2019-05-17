@@ -21,3 +21,6 @@ Data: https://datadryad.org/resource/doi:10.5061/dryad.070jc
 Reference: [Broderick et al. (2018)](https://www.sciencedirect.com/science/article/pii/S0960982218301465)
 
 ## UCL Corpus
+
+Data: Available upon request from Stefan L. Frank  
+Reference: [Frank & Willems (2017)](https://www.tandfonline.com/doi/full/10.1080/23273798.2017.1323109)
