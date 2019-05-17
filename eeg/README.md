@@ -1,11 +1,3 @@
-# Electroencephalography (EEG)
+# Electroencephalography (EEG) datasets for NLP
 
-## ZuCo
 
-Simultaneous eye tracking and EEG.
-
-## Natural Speech
-
-## N400
-
-## UCL Corpus
