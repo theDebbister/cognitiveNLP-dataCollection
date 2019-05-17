@@ -1,6 +1,6 @@
 ## ZuCo
 
-Simultaneous eye tracking and EEG recordings.
+Simultaneous eye tracking and EEG recordings.  
 Stimulus: Text - natural sentences
 Provided features: Frequency band features (alpha, beta, gamma, theta)  
 Data: https://osf.io/q3zws/  
