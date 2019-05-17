@@ -4,7 +4,7 @@ The list below mentions the features readily provided in the data, but you can a
 
 ## Dundee
 
-Data: can be provided by Alan Kennedy upon request.
+Data: can be provided by Alan Kennedy upon request.  
 Reference: Kennedy et al. (2003)
 
 ## ZuCo
@@ -30,23 +30,22 @@ Reference
 
 ## CFILT Datasets
 
-The Center for Indian Language Technology (CFILT) offers 4 eye tracking datasets specifically recorded for NLP purposes.
+The Center for Indian Language Technology (CFILT) offers 4 eye tracking datasets specifically recorded for NLP purposes.  
+Data: http://www.cfilt.iitb.ac.in/cognitive-nlp/
 
 ### Sarcasm
 
 Provided features:  
-Data:  
 Reference: 
 
 ### Sentiment
 
 Provided features: 
-Data: 
 Reference:
+
 ### Coreference
 
 Provided features: 
-Data: 
 Reference:
 
 ### Scanpath
@@ -56,3 +55,7 @@ Data:
 Reference:
 
 ## UCL Corpus
+
+Provided features:  
+Data: https://link.springer.com/article/10.3758/s13428-012-0313-y#SupplementaryMaterial  
+Reference: Frank et al. (2013)
