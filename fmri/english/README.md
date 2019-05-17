@@ -18,8 +18,8 @@ Reference: [Mitchell et al. (2008)](https://science.sciencemag.org/content/sci/3
 
 ## Stories
 
-Stimulus: Text - reading short stories
-Data: Available upon request from authors
+Stimulus: Text - reading short stories  
+Data: Available upon request from authors  
 Reference: [Dehgani et al. (20017)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.23814)
 
 ## Pseudo(words)
