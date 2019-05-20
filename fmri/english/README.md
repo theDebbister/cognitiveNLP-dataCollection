@@ -8,6 +8,14 @@ Data: http://www.cs.cmu.edu/~fmri/plosone/
 Reference: [Wehbe et al. (2014)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112575&type=printable)
 
 
+## Alice 
+
+Stimulus: Audio - listening to Alice in Wonderland (Chapter 1)
+Subjects: 29  
+Data: https://sites.lsa.umich.edu/cnllab/2016/06/11/data-sharing-fmri-timecourses-story-listening/  
+Reference: [Brennan et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0093934X15300687)
+
+
 ## Nouns
 
 Stimulus: words/images of 60 nouns  
