@@ -5,7 +5,7 @@
 Stimulus: Text - Reading of chapter X of Harry Potter  
 Subjects:  
 Data: http://www.cs.cmu.edu/~fmri/plosone/  
-Reference: [Wehbe et al. ()](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112575&type=printable)
+Reference: [Wehbe et al. (2014)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112575&type=printable)
 
 
 ## Nouns
