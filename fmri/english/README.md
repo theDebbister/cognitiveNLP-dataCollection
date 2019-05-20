@@ -26,3 +26,9 @@ Reference: [Dehgani et al. (20017)](https://onlinelibrary.wiley.com/doi/pdf/10.1
 
 Stimulus: Text - words and pseudowords  
 Reference: [Schuster et al. (2015)](https://www.nature.com/articles/srep12686.pdf)
+
+## Pereira data set
+
+Stimulus: Mixed - sentences, word clouds and images
+Data: https://evlab.mit.edu/sites/default/files/documents/index.html
+Reference: [Pereira et al. (20180)](https://www.nature.com/articles/s41467-018-03068-4)
