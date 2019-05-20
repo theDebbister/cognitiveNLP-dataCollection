@@ -3,7 +3,7 @@
 ## Harry Potter
 
 Stimulus: Text - Reading of chapter X of Harry Potter  
-Subjects:  
+Subjects: 8  
 Data: http://www.cs.cmu.edu/~fmri/plosone/  
 Reference: [Wehbe et al. (2014)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112575&type=printable)
 
@@ -19,16 +19,20 @@ Reference: [Mitchell et al. (2008)](https://science.sciencemag.org/content/sci/3
 ## Stories
 
 Stimulus: Text - reading short stories  
+Subjects: 30  
 Data: Available upon request from authors  
 Reference: [Dehgani et al. (20017)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.23814)
 
 ## Pseudo(words)
 
 Stimulus: Text - words and pseudowords  
+Subjects:  
+Data: available upon request from Sarah Schuster  
 Reference: [Schuster et al. (2015)](https://www.nature.com/articles/srep12686.pdf)
 
 ## Pereira data set
 
 Stimulus: Mixed - sentences, word clouds and images  
+Subjects: 17  
 Data: https://evlab.mit.edu/sites/default/files/documents/index.html  
 Reference: [Pereira et al. (20180)](https://www.nature.com/articles/s41467-018-03068-4)
