@@ -30,9 +30,14 @@ Subjects:
 Data: available upon request from Sarah Schuster  
 Reference: [Schuster et al. (2015)](https://www.nature.com/articles/srep12686.pdf)
 
-## Pereira data set
+## Mixed Encoding
 
 Stimulus: Mixed - sentences, word clouds and images  
 Subjects: 17  
 Data: https://evlab.mit.edu/sites/default/files/documents/index.html  
 Reference: [Pereira et al. (20180)](https://www.nature.com/articles/s41467-018-03068-4)
+
+## Semantic Maps
+
+Stimulus: Audio - stories
+Reference: [Huth et al. (2016)](https://www.nature.com/articles/nature17637)
