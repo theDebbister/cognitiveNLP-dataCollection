@@ -31,6 +31,8 @@ Subjects: 30
 Data: Available upon request from authors  
 Reference: [Dehgani et al. (20017)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.23814)
 
+This dataset also includes a Chinese part.
+
 ## Pseudo(words)
 
 Stimulus: Text - words and pseudowords  
