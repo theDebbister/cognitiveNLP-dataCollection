@@ -58,4 +58,4 @@ Reference:
 
 Provided features:  
 Data: https://link.springer.com/article/10.3758/s13428-012-0313-y#SupplementaryMaterial  
-Reference: Frank et al. (2013)
+Reference: [Frank et al. (2013)](https://link.springer.com/article/10.3758/s13428-012-0313-y)
