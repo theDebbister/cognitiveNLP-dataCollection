@@ -1,6 +1,6 @@
 ## ZuCo
   
-Stimulus: Text - natural sentences
+Stimulus: Text - natural sentences  
 Provided features: Frequency band features (alpha, beta, gamma, theta)  
 Data: https://osf.io/q3zws/  
 Reference: [Hollenstein et al. (2018)](https://www.nature.com/articles/sdata2018291)
