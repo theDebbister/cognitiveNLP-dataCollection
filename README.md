@@ -8,8 +8,13 @@ This list contains datasets of the following recording modalities:
 
 ## Eye tracking
 
+An eye tracker measures eye positions and eye movement. Gaze patterns are an indirect measument of cognitive processes ocurring during reading. There are many available eye-tracking corpora in multple languages that can be used for NLP purposes. See the list [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking#eye-tracking-datasets-for-nlp).
+
 ## Electroencephalography (EEG)
 
-## fMRI
+EEG measures voltage fluctuations through the scalp.
 
-...
+## Functional magnetic resonance imaging (fMRI)
+
+fMRI measures brain activity by detecting changes associated with blood flow.
+This repo contains a [list of fMRI datasets](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/fmri#functional-magnetic-resonance-imaging) useful for NLP in various languages.
