@@ -12,7 +12,7 @@ An eye tracker measures eye positions and eye movement. Gaze patterns are an ind
 
 ## Electroencephalography (EEG)
 
-EEG measures voltage fluctuations through the scalp.
+EEG measures voltage fluctuations through the scalp. The list of EEG datasets for NLP can be found [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eeg#electroencephalography-eeg-datasets-for-nlp).
 
 ## Functional magnetic resonance imaging (fMRI)
 
