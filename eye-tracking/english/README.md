@@ -2,31 +2,30 @@
 
 The list below mentions the features readily provided in the data, but you can always compute additional features based on the fixation values.
 
-## Dundee
-
-Data: can be provided by Alan Kennedy upon request.  
-Reference: Kennedy et al. (2003)
-
 ## ZuCo
 
-Simultaneous eye tracking and EEG recordings.
-Provided features:  
+Simultaneous eye tracking and [EEG recordings](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eeg/english#zurich-cognitive-language-processing-corpus-zuco).  
+Stimulus: Sentences from Wikipedia and the Stanford Sentiment Treebank
+Subjects: 12
+Provided features:  number of fixations, first fixation duration, single fixation duration, go-past time, total reading time, gaze duration  
 Data: https://osf.io/q3zws/  
 Reference: [Hollenstein et al. (2018)](https://www.nature.com/articles/sdata2018291)
 
 ## GECO
 
-Also includes a Dutch part.
-
-Provided features:  
+Also includes a [Dutch part](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/dutch#geco).  
+Stimulus: novel by Agatha Christie  
+Subjects: 19 bilingual, 14 monolingual readers  
+Provided features: first fixation duration, single fixation duration, go-past time, total reading time, gaze duration   
 Data: http://expsy.ugent.be/downloads/geco/ . 
 Reference: [Cop et al. (2017)](https://link.springer.com/article/10.3758/s13428-016-0734-0)
 
 ## Provo
 
-Provided features:  
+Stimulus: online news articles, popular science magazines, and public-domain works of fiction  
+Subjects: 84  
 Data: https://osf.io/sjefs/  
-Reference
+Reference: [Luke & Christianson (2016)](https://link.springer.com/content/pdf/10.3758/s13428-017-0908-4.pdf)
 
 ## CFILT Datasets
 
@@ -35,27 +34,38 @@ Data: http://www.cfilt.iitb.ac.in/cognitive-nlp/
 
 ### Sarcasm
 
-Provided features:  
-Reference: 
+Stimulus: Twitter or Amazon movie reviews  
+Subjects: 7 . 
+Reference: [Mishra et al. (2016)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/aaai16-sarcasm_understandability.pdf)
 
 ### Sentiment
 
-Provided features: 
-Reference:
+Stimulus: movie reviews from a movie corpus and from Twitter  
+Subjects: 5  
+Reference: [Joshi et al. (2014)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/acl14-sac.pdf)
 
 ### Coreference
 
-Provided features: 
-Reference:
+Stimulus: MUC-6 dataset  
+Subjects: 14  
+Reference: [Cheri et al. (2016)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/cogacll16-coref.pdf)
 
 ### Scanpath
 
-Provided features:  
-Data:  
-Reference:
+Stimulus: sentences from Wikipedia and Simple Wikipedia  
+Subjects: 16  
+Reference: [Mishra et al. (2017)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/aaai17-scanpath-complexity.pdf)
 
 ## UCL Corpus
 
-Provided features:  
+Stimulus: 250 sentences, rapid serial visual presentation  
+Subjects: 43  
 Data: https://link.springer.com/article/10.3758/s13428-012-0313-y#SupplementaryMaterial  
 Reference: [Frank et al. (2013)](https://link.springer.com/article/10.3758/s13428-012-0313-y)
+
+## Dundee
+
+Stimulus: newspaper articles  
+Subjects: 10  
+Data: can be provided by Alan Kennedy upon request.  
+Reference: Kennedy et al. (2003)
