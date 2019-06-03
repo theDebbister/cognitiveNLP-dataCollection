@@ -12,9 +12,9 @@ An eye tracker measures eye positions and eye movement. Gaze patterns are an ind
 
 ## Electroencephalography (EEG)
 
-EEG measures voltage fluctuations through the scalp. The list of EEG datasets for NLP can be found [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eeg#electroencephalography-eeg-datasets-for-nlp).
+EEG measures voltage fluctuations through the scalp. It has high temporal resolution. The list of EEG datasets for NLP can be found [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eeg#electroencephalography-eeg-datasets-for-nlp).
 
 ## Functional magnetic resonance imaging (fMRI)
 
-fMRI measures brain activity by detecting changes associated with blood flow.
+fMRI measures brain activity by detecting changes associated with blood flow. It is slow, but has very high spatial resolution.
 This repo contains a [list of fMRI datasets](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/fmri#functional-magnetic-resonance-imaging) useful for NLP in various languages.
