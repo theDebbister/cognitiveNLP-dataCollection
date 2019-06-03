@@ -1,6 +1,10 @@
 # Eye tracking datasets for NLP
 
-Advantages / disadvantages --> see Barrett for review paper
+An eye tracker measures eye positions and eye movement. Gaze patterns are an indirect measument of cognitive processes ocurring during reading. There are many available eye-tracking corpora in multple languages that can be used for NLP purposes.
 
-Naturalistic vs. controlled reading
-controlled reading might be ok for NLP tasks working with single word stimulus, but naural reading better for context.
+This collection contains corpora in the following languages:
+(English)[]
+(German)[]
+(Russian)[]
+(Chinese)[]
+(Hindi)[]
