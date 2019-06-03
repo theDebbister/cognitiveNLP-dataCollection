@@ -36,7 +36,7 @@ This dataset also includes a [Chinese](https://github.com/norahollenstein/cognit
 ## Pseudo(words)
 
 Stimulus: Text - words and pseudowords  
-Subjects:  
+Subjects: 36  
 Data: available upon request from Sarah Schuster  
 Reference: [Schuster et al. (2015)](https://www.nature.com/articles/srep12686.pdf)
 
