@@ -5,8 +5,8 @@ The list below mentions the features readily provided in the data, but you can a
 ## ZuCo
 
 Simultaneous eye tracking and [EEG recordings](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eeg/english#zurich-cognitive-language-processing-corpus-zuco).  
-Stimulus: Sentences from Wikipedia and the Stanford Sentiment Treebank
-Subjects: 12
+Stimulus: Sentences from Wikipedia and the Stanford Sentiment Treebank  
+Subjects: 12  
 Provided features:  number of fixations, first fixation duration, single fixation duration, go-past time, total reading time, gaze duration  
 Data: https://osf.io/q3zws/  
 Reference: [Hollenstein et al. (2018)](https://www.nature.com/articles/sdata2018291)
@@ -35,7 +35,7 @@ Data: http://www.cfilt.iitb.ac.in/cognitive-nlp/
 ### Sarcasm
 
 Stimulus: Twitter or Amazon movie reviews  
-Subjects: 7 . 
+Subjects: 7  
 Reference: [Mishra et al. (2016)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/aaai16-sarcasm_understandability.pdf)
 
 ### Sentiment
