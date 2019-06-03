@@ -1,7 +1,7 @@
 # English EEG datasets for NLP
 
-## ZuCo
-  
+## Zurich Cognitive Language Processing Corpus (ZuCo)
+
 Stimulus: Text - natural sentences  
 Provided features: Frequency band features (alpha, beta, gamma, theta)  
 Data: https://osf.io/q3zws/  
