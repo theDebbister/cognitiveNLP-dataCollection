@@ -3,6 +3,7 @@
 ## Zurich Cognitive Language Processing Corpus (ZuCo)
 
 Stimulus: Text - natural sentences  
+Subjects: 12
 Provided features: Frequency band features (alpha, beta, gamma, theta)  
 Data: https://osf.io/q3zws/  
 Reference: [Hollenstein et al. (2018)](https://www.nature.com/articles/sdata2018291)
