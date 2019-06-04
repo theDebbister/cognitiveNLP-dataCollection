@@ -6,8 +6,6 @@ This collection contains corpora in the following languages:
 [Dutch](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/dutch#dutch-eye-tracking-datasets)  
 [English](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/english#english-eye-tracking-datasets)  
 [German](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/german#german-eye-tracking-datasets)  
-[Hindi]()  
-[Mandarin Chinese]()  
 [Russian](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/russian#russian-eye-tracking-datasets)   
 
 
