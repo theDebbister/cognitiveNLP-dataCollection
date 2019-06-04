@@ -10,6 +10,10 @@ This list contains datasets of the following recording modalities:
 
 An eye tracker measures eye positions and eye movement. Gaze patterns are an indirect measument of cognitive processes ocurring during reading. There are many available eye-tracking corpora in multple languages that can be used for NLP purposes. See the list [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking#eye-tracking-datasets-for-nlp).
 
+## Self-paced reading
+
+Self-paced reading is a task where where participants read a passage word-by-word, pressing a button to get the next word or phrase displayed. See the list of datasets [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/self-paced-reading#datasets-of-self-paced-reading-times).
+
 ## Electroencephalography (EEG)
 
 EEG measures voltage fluctuations through the scalp. It has high temporal resolution. The list of EEG datasets for NLP can be found [here](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eeg#electroencephalography-eeg-datasets-for-nlp).
