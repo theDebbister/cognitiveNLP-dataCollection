@@ -63,7 +63,7 @@ Subjects: 43
 Data: https://link.springer.com/article/10.3758/s13428-012-0313-y#SupplementaryMaterial  
 Reference: [Frank et al. (2013)](https://link.springer.com/article/10.3758/s13428-012-0313-y)
 
-This dataset also includes [self-paced reading times]().
+This dataset also includes [self-paced reading times](https://github.com/norahollenstein/cognitiveNLP-dataCollection/blob/master/self-paced-reading/english/README.md#ucl-corpus).
 
 ## Dundee
 
