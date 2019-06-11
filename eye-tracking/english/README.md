@@ -58,10 +58,12 @@ Reference: [Mishra et al. (2017)](http://www.cfilt.iitb.ac.in/cognitive-nlp/pape
 
 ## UCL Corpus
 
-Stimulus: 250 sentences
+Stimulus: 250 sentences  
 Subjects: 43  
 Data: https://link.springer.com/article/10.3758/s13428-012-0313-y#SupplementaryMaterial  
 Reference: [Frank et al. (2013)](https://link.springer.com/article/10.3758/s13428-012-0313-y)
+
+This dataset also includes [self-paced reading times]().
 
 ## Dundee
 
