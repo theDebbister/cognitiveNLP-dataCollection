@@ -24,6 +24,7 @@ Reference: [Broderick et al. (2018)](https://www.sciencedirect.com/science/artic
 
 ## UCL Corpus
 
-Stimulus: Word for word reading of 250 sentences.  
-Data: Available upon request from Stefan L. Frank  
+Stimulus: Word for word reading of 205 sentences.  
+Subjects: 24  
+Data: https://ars.els-cdn.com/content/image/1-s2.0-S0093934X15001182-mmc1.zip  
 Reference: [Frank & Willems (2017)](https://www.tandfonline.com/doi/full/10.1080/23273798.2017.1323109)
