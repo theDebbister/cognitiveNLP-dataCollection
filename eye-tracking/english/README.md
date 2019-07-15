@@ -73,3 +73,13 @@ Data: can be provided by Alan Kennedy upon request.
 Reference: Kennedy et al. (2003)
 
 Also includes a [French](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/french#dundee) part.
+
+## ASD Data
+
+Stimulus: 27 individual texts from various domains (4,658 words in total)  
+Subjects: 14-20  (contains data of subjects with and without autism)  
+Data: https://github.com/anomymous1/ASD-Data/  
+Provided features: Time to 1st View (sec), Time Viewed (sec), Time Viewed (%), Fixations (#), Revisits (#). Texts also include readability scores and comprehension questions.  
+Reference: [Yaneva (2016)](https://core.ac.uk/download/pdf/77612845.pdf)
+
+
