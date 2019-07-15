@@ -27,10 +27,24 @@ Subjects: 84
 Data: https://osf.io/sjefs/  
 Reference: [Luke & Christianson (2016)](https://link.springer.com/content/pdf/10.3758/s13428-017-0908-4.pdf)
 
+## ASD Data
+
+Stimulus: 27 individual texts from various domains (4,658 words in total)  
+Subjects: 14-20  (contains data of subjects with and without autism)  
+Data: https://github.com/anomymous1/ASD-Data/  
+Provided features: Time to 1st View (sec), Time Viewed (sec), Time Viewed (%), Fixations (#), Revisits (#). Texts also include readability scores and comprehension questions.  
+Reference: [Yaneva (2016)](https://core.ac.uk/download/pdf/77612845.pdf)
+
 ## CFILT Datasets
 
 The Center for Indian Language Technology (CFILT) offers 4 eye tracking datasets specifically recorded for NLP purposes.  
 Data: http://www.cfilt.iitb.ac.in/cognitive-nlp/
+
+### Scanpath
+
+Stimulus: sentences from Wikipedia and Simple Wikipedia  
+Subjects: 16  
+Reference: [Mishra et al. (2017)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/aaai17-scanpath-complexity.pdf)
 
 ### Sarcasm
 
@@ -38,23 +52,17 @@ Stimulus: Twitter or Amazon movie reviews
 Subjects: 7  
 Reference: [Mishra et al. (2016)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/aaai16-sarcasm_understandability.pdf)
 
-### Sentiment
-
-Stimulus: movie reviews from a movie corpus and from Twitter  
-Subjects: 5  
-Reference: [Joshi et al. (2014)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/acl14-sac.pdf)
-
 ### Coreference
 
 Stimulus: MUC-6 dataset  
 Subjects: 14  
 Reference: [Cheri et al. (2016)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/cogacll16-coref.pdf)
 
-### Scanpath
+### Sentiment
 
-Stimulus: sentences from Wikipedia and Simple Wikipedia  
-Subjects: 16  
-Reference: [Mishra et al. (2017)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/aaai17-scanpath-complexity.pdf)
+Stimulus: movie reviews from a movie corpus and from Twitter  
+Subjects: 5  
+Reference: [Joshi et al. (2014)](http://www.cfilt.iitb.ac.in/cognitive-nlp/papers/acl14-sac.pdf)
 
 ## UCL Corpus
 
@@ -73,13 +81,3 @@ Data: can be provided by Alan Kennedy upon request.
 Reference: Kennedy et al. (2003)
 
 Also includes a [French](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/french#dundee) part.
-
-## ASD Data
-
-Stimulus: 27 individual texts from various domains (4,658 words in total)  
-Subjects: 14-20  (contains data of subjects with and without autism)  
-Data: https://github.com/anomymous1/ASD-Data/  
-Provided features: Time to 1st View (sec), Time Viewed (sec), Time Viewed (%), Fixations (#), Revisits (#). Texts also include readability scores and comprehension questions.  
-Reference: [Yaneva (2016)](https://core.ac.uk/download/pdf/77612845.pdf)
-
-
