@@ -25,7 +25,7 @@ Reference: [Huth et al. (2016)](https://www.nature.com/articles/nature17637)
 
 ## Alice 
 
-Stimulus: Audio - listening to Alice in Wonderland (Chapter 1)
+Stimulus: Audio - listening to Alice in Wonderland (Chapter 1)  
 Subjects: 29  
 Data: https://sites.lsa.umich.edu/cnllab/2016/06/11/data-sharing-fmri-timecourses-story-listening/  
 Reference: [Brennan et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0093934X15300687)
