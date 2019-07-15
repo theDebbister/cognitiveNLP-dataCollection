@@ -16,7 +16,7 @@ Reference: [Dehgani et al. (2017)](https://onlinelibrary.wiley.com/doi/pdf/10.10
 
 This dataset also includes a [Chinese](https://github.com/norahollenstein/cognitiveNLP-dataCollection/blob/master/fmri/chinese) part.
 
-## Semantic maps
+## Semantic Maps
 
 Stimulus: 10 autobiographical stories (each 10-15 mins)  
 Subjects: 7  
@@ -40,7 +40,7 @@ Reference: [Schuster et al. (2015)](https://www.nature.com/articles/srep12686.pd
 
 ## Harry Potter
 
-Stimulus: Text - Reading of chapter X of Harry Potter  
+Stimulus: Text - Reading of chapter 9 of Harry Potter  
 Subjects: 8  
 Data: http://www.cs.cmu.edu/~fmri/plosone/  
 Reference: [Wehbe et al. (2014)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112575&type=printable)
