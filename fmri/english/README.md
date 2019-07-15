@@ -16,6 +16,13 @@ Reference: [Dehgani et al. (2017)](https://onlinelibrary.wiley.com/doi/pdf/10.10
 
 This dataset also includes a [Chinese](https://github.com/norahollenstein/cognitiveNLP-dataCollection/blob/master/fmri/chinese) part.
 
+## Semantic maps
+
+Stimulus: 10 autobiographical stories (each 10-15 mins)  
+Subjects: 7  
+Data: https://github.com/HuthLab/speechmodeltutorial  
+Reference: [Huth et al. (2016)](https://www.nature.com/articles/nature17637)
+
 ## Alice 
 
 Stimulus: Audio - listening to Alice in Wonderland (Chapter 1)
