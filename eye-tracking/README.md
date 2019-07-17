@@ -5,6 +5,7 @@ An eye tracker measures eye positions and eye movement. Gaze patterns are an ind
 This collection contains corpora in the following languages:  
 [Dutch](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/dutch#dutch-eye-tracking-datasets)  
 [English](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/english#english-eye-tracking-datasets)  
+[French](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/french#french-eye-tracking-datasets)  
 [German](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/german#german-eye-tracking-datasets)  
 [Persian](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/persian#persian-eye-tracking-datasets)  
 [Russian](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/eye-tracking/russian#russian-eye-tracking-datasets)  
