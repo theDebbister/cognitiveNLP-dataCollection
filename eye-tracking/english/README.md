@@ -20,6 +20,14 @@ Provided features: first fixation duration, single fixation duration, go-past ti
 Data: http://expsy.ugent.be/downloads/geco/   
 Reference: [Cop et al. (2017)](https://link.springer.com/article/10.3758/s13428-016-0734-0)
 
+## Passage reading
+
+Stimulus: 40 passages of text  
+Subjects: 48  
+Data: https://osf.io/4qtnf/  
+Reference: [Parker et al. (2017)](https://www.tandfonline.com/doi/full/10.1080/20445911.2017.1340303)
+
+
 ## Provo
 
 Stimulus: online news articles, popular science magazines, and public-domain works of fiction  
