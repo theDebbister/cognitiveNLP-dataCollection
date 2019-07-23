@@ -1,6 +1,6 @@
 # Chinese eye tracking datasets
 
-## Chinese word length effects
+## Chinese Word Length Effects
 
 Stimulus: 90 sentences  
 Subjects: 35  
