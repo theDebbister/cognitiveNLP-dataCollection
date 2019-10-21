@@ -1,5 +1,15 @@
 # English fMRI datasets
 
+## Natural Stories Corpus
+
+Stimulus: 10 stories (English texts edited to contain many low-frequency syntactic constructions)  
+Subjects: 78  
+Data: https://osf.io/eyp8q/  
+Reference: [Shain et al. (2019)](https://www.biorxiv.org/content/10.1101/717512v1)
+
+
+[Self-paced reading data](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/self-paced-reading/english#natural-stories-corpus) of the same stimuli is also available.
+
 ## Mixed Encoding
 
 Stimulus: Mixed - sentences, word clouds and images  
@@ -51,9 +61,6 @@ Stimulus: words/images of 60 nouns
 Subjects: 9  
 Data: http://www.cs.cmu.edu/afs/cs/project/theo-73/www/science2008/data.html  
 Reference: [Mitchell et al. (2008)](https://science.sciencemag.org/content/sci/320/5880/1191.full.pdf)
-
-
-
 
 
 
