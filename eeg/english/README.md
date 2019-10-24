@@ -1,5 +1,14 @@
 # English EEG datasets for NLP
 
+## Alice 
+
+Stimulus: Audio - listening to Alice in Wonderland (Chapter 1); 2129 words in 84 sentences  
+Subjects: 52  
+Data: https://deepblue.lib.umich.edu/data/concern/data_sets/bg257f92t?locale=en    
+Reference: [Brennan & Hale (2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207741)
+
+[fMRI data](https://github.com/norahollenstein/cognitiveNLP-dataCollection/tree/master/fmri/english#alice) has also been recorded on the same stimulus.
+
 ## Zurich Cognitive Language Processing Corpus (ZuCo)
 
 Stimulus: Text - natural sentences  
