@@ -9,3 +9,7 @@ Provided features: first fixation duration, single fixation duration, go-past ti
 Data: http://expsy.ugent.be/downloads/geco/  
 Reference: [Cop et al. (2017)](https://link.springer.com/article/10.3758/s13428-016-0734-0)
 
+## Mental Simulation Corpus
+Stimulus: 3 existing Dutch short stories (2143, 2659, and 2988 words)  
+Subjects: 102  
+Data: https://osf.io/qgx26/  
