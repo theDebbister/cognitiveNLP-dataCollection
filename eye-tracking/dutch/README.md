@@ -13,3 +13,4 @@ Reference: [Cop et al. (2017)](https://link.springer.com/article/10.3758/s13428-
 Stimulus: 3 existing Dutch short stories (2143, 2659, and 2988 words)  
 Subjects: 102  
 Data: https://osf.io/qgx26/  
+Reference: [Mak & Willems (2019)](https://www.tandfonline.com/doi/full/10.1080/23273798.2018.1552007)
